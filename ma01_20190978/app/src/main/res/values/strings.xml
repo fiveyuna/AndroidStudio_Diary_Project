@@ -15,5 +15,5 @@
     <string name="loc_guide1">마커 윈도우 클릭: 현재 내 위치 선택</string>
     <string name="loc_guide2">맵 길게 클릭: 해당 위치 선택</string>
 
-    <string name="google_api_key">AIzaSyBBmdkzpbhr641WO-zhiQLhLYnljYZ7WxU</string>
+    <string name="google_api_key">secret!</string>
 </resources>
